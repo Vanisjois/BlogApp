@@ -20,3 +20,5 @@ python manage.py runserver
 # command to create a new app
 python manage.py startapp blog
 
+# bootstrap starter kit
+# https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
